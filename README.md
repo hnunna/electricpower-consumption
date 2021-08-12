@@ -1,5 +1,7 @@
 # Electric Power Consumption Tableau Dashboard
-https://public.tableau.com/views/ElectricPowerConsumption/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+Github pages link : https://hnunna.github.io/electricpower-consumption/
+
+This dashboard can be viewed directly in Tableau Public: https://public.tableau.com/views/ElectricPowerConsumption/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Description
 This dashboard shows the  Electric power consumption(kWh per capita) of different countries in the world during the years 1980 to 2010.
